@@ -1,3 +1,5 @@
+import TrainningModule1.Student
+
 fun main(args : Array<String>)
 {
     var Ajay = Student()

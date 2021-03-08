@@ -1,3 +1,5 @@
+package TrainningModule1
+
 class Student
 {
     var name : String = ""
