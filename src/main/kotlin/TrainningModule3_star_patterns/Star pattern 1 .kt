@@ -1,4 +1,4 @@
-package TrainningModule3
+package TrainningModule3_star_patterns
 
 fun main(args : Array<String>)
 {
